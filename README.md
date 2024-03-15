@@ -1,2 +1,2 @@
-# hello-world
-1st repository
+# My name is Trilochan Lalam
+This is my first repository
